@@ -1,0 +1,45 @@
+To install winget
+
+Go to Microsoft Store--> Search winget --> App Installer--> Download It
+
+Searching using Winget
+
+winget serach Terminal
+
+Installation using Winget
+
+
+windows terminal command
+winget install Microsoft.WindowsTerminal
+
+windows powershell command
+winget install Microsoft.Powershell
+
+windows notepad++ command
+
+winget install Notepad++.Notepad++
+
+font link
+https://www.nerdfonts.com/font-downloads
+
+https://github.com/JanDeDobbeleer/oh-my-posh
+
+https://ohmyposh.dev/docs
+
+https://github.com/MaheshkumarN/AzSetupForDevVM
+
+
+extension for vscode
+https://gitlab.com/-/snippets/2369302
+
+vscode setting file
+https://gitlab.com/-/snippets/2369316
+
+new plugins site
+
+https://api.nuget.org/v3/index.json
+
+code maiden installation after 7 to 8 days
+7/13/2022
+
+-NoExit -Command "& { Import-Module """$env:VSAPPIDDIR\..\Tools\Microsoft.VisualStudio.DevShell.dll"""; Enter-VsDevShell -SkipAutomaticLocation -SetDefaultWindowTitle -InstallPath $env:VSAPPIDDIR\..\..\}"

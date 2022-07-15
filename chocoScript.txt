@@ -1,0 +1,8 @@
+https://community.chocolatey.org/install.ps1
+installing choco on local machine
+
+choco install notepadplusplus -y
+choco install microsoft-windows-terminal -y
+choco install jetbrainsmononf -y
+choco install cascadia-code-nerd-font -y
+choco install font-nerd-dejavusansmono -y

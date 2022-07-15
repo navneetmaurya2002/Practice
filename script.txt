@@ -1,0 +1,3 @@
+winget install Notepad++.Notepad++
+winget install Microsoft.Powershell
+winget install Microsoft.WindowsTerminal
