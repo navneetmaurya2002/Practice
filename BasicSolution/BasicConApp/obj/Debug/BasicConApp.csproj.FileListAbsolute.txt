@@ -1,0 +1,8 @@
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\bin\Debug\BasicConApp.exe.config
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\bin\Debug\BasicConApp.exe
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\bin\Debug\BasicConApp.pdb
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\obj\Debug\BasicConApp.csproj.AssemblyReference.cache
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\obj\Debug\BasicConApp.csproj.SuggestedBindingRedirects.cache
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\obj\Debug\BasicConApp.csproj.CoreCompileInputs.cache
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\obj\Debug\BasicConApp.exe
+H:\DotNetTraining\Projects\BasicSolution\BasicConApp\obj\Debug\BasicConApp.pdb
